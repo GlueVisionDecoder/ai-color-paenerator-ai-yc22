@@ -1,4 +1,4 @@
-# 
+# 原生 AI Color Palette Generator 模板。集成 AI伦理 和 云端AI，性能最大化。
 
 
 
